@@ -4,4 +4,4 @@
 - npm install
 
 ## copiar el archivo .env.example y pegarlo en la misma carpeta, al archivo copiado renombrarlo cómo:
-- .env
+- .env 
