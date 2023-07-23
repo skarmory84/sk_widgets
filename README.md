@@ -8,4 +8,4 @@ npm install
 ```
 
 ### Crear archivo de entorno
-Copiar el archivo .env.example y pegarlo en la misma carpeta, al archivo copiado renombrarlo cómo: ".env" 
+Copiar el archivo `.env.example` y pegarlo en la misma carpeta, al archivo copiado renombrarlo cómo:`.env` 
